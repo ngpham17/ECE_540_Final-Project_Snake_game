@@ -16,4 +16,4 @@ There are some objects in the game map to make the game harder.
 2. on platformIO, add bitstream path. 
 3. upload the bit stream.
 4. run 71_7SegDispl.S assembly code for 7 segment displays.
-5. Use a keyboard or push buttons on the board to contrl the snake.
+
